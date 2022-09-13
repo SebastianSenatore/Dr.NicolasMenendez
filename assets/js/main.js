@@ -1,5 +1,5 @@
 (function () {
-"use strict";
+	"use strict";
 
 	//===== Preloader
 
@@ -152,9 +152,9 @@
 
 	//========= glightbox
 	const myGallery = GLightbox({
-		'href': 'https://www.youtube.com/watch?v=LXb3EKWsInQ',
+		'href': 'assets/img/video/5.mp4',
 		'type': 'video',
-		'source': 'youtube', //vimeo, youtube or local
+		'source': 'local', //vimeo, youtube or local
 		'width': 900,
 		'autoplayVideos': true,
 	});
