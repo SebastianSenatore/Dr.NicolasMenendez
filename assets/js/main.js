@@ -117,7 +117,7 @@
 		"navAsThumbnails": true,
 		"autoplayTimeout": 5000,
 		"swipeAngle": false,
-		"speed": 400,
+		"speed": 500,
 	});
 
 	//======== WOW active
